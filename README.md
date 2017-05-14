@@ -1,11 +1,11 @@
 CBIR
 ---
 
-Super simple project that implements CBIR.
+Super simple project that outputs CBIR results.
 
 Setup
 ---
 
 ```
-yarn install 
+yarn install
 ```

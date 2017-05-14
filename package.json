@@ -1,0 +1,8 @@
+{
+  "name": "FokoCBIR",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "isonr <rison@foko.co>",
+  "license": "MIT"
+}
